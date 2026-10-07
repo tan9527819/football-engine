@@ -184,10 +184,10 @@
     "rest_days": 3
   },
   "美国": {
-    "elo": 1801.8,
-    "attack": 1.3902,
-    "defense": 0.9841,
-    "form": 0.4651,
+    "elo": 1814.3,
+    "attack": 1.2898,
+    "defense": 0.8882,
+    "form": 0.6256,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -256,10 +256,10 @@
     "rest_days": 3
   },
   "中国": {
-    "elo": 1345.0,
-    "attack": 0.4512,
-    "defense": 1.1567,
-    "form": -0.51,
+    "elo": 1333.1,
+    "attack": 0.4072,
+    "defense": 1.0791,
+    "form": -0.657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2736,10 +2736,10 @@
     "rest_days": 3
   },
   "苏格兰": {
-    "elo": 1640.0,
-    "attack": 0.8514,
-    "defense": 0.8717,
-    "form": -0.5919,
+    "elo": 1618.3,
+    "attack": 0.8036,
+    "defense": 0.8571,
+    "form": -0.7143,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2792,10 +2792,10 @@
     "rest_days": 3
   },
   "法罗群岛": {
-    "elo": 1232.7,
-    "attack": 0.3897,
-    "defense": 1.3012,
-    "form": -0.2577,
+    "elo": 1244.6,
+    "attack": 0.4221,
+    "defense": 1.2447,
+    "form": -0.1804,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2832,10 +2832,10 @@
     "rest_days": 3
   },
   "斯洛文尼": {
-    "elo": 1575.5,
-    "attack": 0.7939,
-    "defense": 0.812,
-    "form": -0.3097,
+    "elo": 1597.2,
+    "attack": 0.7869,
+    "defense": 0.768,
+    "form": 0.0832,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3392,10 +3392,10 @@
     "rest_days": 3
   },
   "加拿大": {
-    "elo": 1790.6,
-    "attack": 1.027,
-    "defense": 0.5807,
-    "form": 0.2413,
+    "elo": 1778.1,
+    "attack": 0.9269,
+    "defense": 0.5593,
+    "form": -0.1311,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6920,10 +6920,10 @@
     "rest_days": 3
   },
   "芝加哥火焰": {
-    "elo": 1449.9,
-    "attack": 0.7773,
-    "defense": 0.8902,
-    "form": -0.4383,
+    "elo": 1482.5,
+    "attack": 0.8071,
+    "defense": 0.8386,
+    "form": -0.0068,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7080,10 +7080,10 @@
     "rest_days": 3
   },
   "温哥华白浪": {
-    "elo": 1560.6,
-    "attack": 1.0222,
-    "defense": 0.8463,
-    "form": 0.3,
+    "elo": 1528.0,
+    "attack": 0.9577,
+    "defense": 0.8693,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10988,6 +10988,22 @@
     "attack": 0.9025,
     "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "塔吉克": {
+    "elo": 1511.9,
+    "attack": 0.9377,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "哈萨克": {
+    "elo": 1488.1,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
   }
