@@ -1,22 +1,15 @@
 {
-  "current_streak": -2,
-  "total_losses": 617,
+  "current_streak": -3,
+  "total_losses": 618,
   "total_wins": 695,
   "halted": false,
   "halt_date": "",
-  "tier": 0,
+  "tier": 1,
   "daily_pnl": 0.0,
-  "daily_date": "2026-10-06",
+  "daily_date": "2026-10-08",
   "weekly_pnl": 0.0,
   "weekly_start": "2026-10-05",
   "history": [
-    {
-      "date": "2026-09-16",
-      "won": false,
-      "pnl": 0.0,
-      "streak": -1,
-      "bankroll": 3870.79
-    },
     {
       "date": "2026-09-16",
       "won": true,
@@ -1408,6 +1401,13 @@
       "won": false,
       "pnl": 0.0,
       "streak": -2,
+      "bankroll": 3870.79
+    },
+    {
+      "date": "2026-10-08",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
       "bankroll": 3870.79
     }
   ]
