@@ -728,10 +728,10 @@
     "rest_days": 3
   },
   "国际米兰": {
-    "elo": 1935.4,
-    "attack": 1.5996,
-    "defense": 0.7917,
-    "form": 0.4096,
+    "elo": 1909.3,
+    "attack": 1.5492,
+    "defense": 0.8552,
+    "form": -0.0133,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1064,10 +1064,10 @@
     "rest_days": 3
   },
   "布鲁日": {
-    "elo": 1741.3,
-    "attack": 1.3255,
-    "defense": 1.3073,
-    "form": -0.1187,
+    "elo": 1767.4,
+    "attack": 1.337,
+    "defense": 1.2854,
+    "form": 0.2169,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1352,10 +1352,10 @@
     "rest_days": 3
   },
   "朗斯": {
-    "elo": 1733.6,
-    "attack": 0.9951,
-    "defense": 0.7385,
-    "form": -0.196,
+    "elo": 1697.7,
+    "attack": 0.8981,
+    "defense": 0.7369,
+    "form": -0.4372,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1792,10 +1792,10 @@
     "rest_days": 3
   },
   "那不勒斯": {
-    "elo": 1733.9,
-    "attack": 0.7721,
-    "defense": 0.5782,
-    "form": -0.0942,
+    "elo": 1713.8,
+    "attack": 0.732,
+    "defense": 0.6274,
+    "form": -0.3659,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3256,10 +3256,10 @@
     "rest_days": 3
   },
   "比利亚雷": {
-    "elo": 1777.0,
-    "attack": 1.223,
-    "defense": 0.8112,
-    "form": 0.3976,
+    "elo": 1797.1,
+    "attack": 1.2093,
+    "defense": 0.7673,
+    "form": 0.5783,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3688,10 +3688,10 @@
     "rest_days": 3
   },
   "里斯本": {
-    "elo": 1711.5,
-    "attack": 1.1771,
-    "defense": 0.8565,
-    "form": -0.0989,
+    "elo": 1747.4,
+    "attack": 1.1327,
+    "defense": 0.773,
+    "form": 0.2308,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5992,10 +5992,10 @@
     "rest_days": 3
   },
   "拜仁": {
-    "elo": 1685.5,
-    "attack": 1.2385,
-    "defense": 0.7932,
-    "form": 0.3459,
+    "elo": 1690.9,
+    "attack": 1.2233,
+    "defense": 0.8214,
+    "form": 0.2421,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6056,10 +6056,10 @@
     "rest_days": 3
   },
   "维京": {
-    "elo": 1741.5,
-    "attack": 0.7248,
-    "defense": 0.4597,
-    "form": 0.3902,
+    "elo": 1736.1,
+    "attack": 0.7597,
+    "defense": 0.5204,
+    "form": 0.2731,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8168,10 +8168,10 @@
     "rest_days": 3
   },
   "北京国安": {
-    "elo": 1588.4,
-    "attack": 0.8862,
-    "defense": 0.6729,
-    "form": 0.657,
+    "elo": 1603.3,
+    "attack": 0.835,
+    "defense": 0.6073,
+    "form": 0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11083,6 +11083,14 @@
     "elo": 1465.2,
     "attack": 0.9377,
     "defense": 1.0081,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "布里兰": {
+    "elo": 1485.1,
+    "attack": 0.9025,
+    "defense": 0.9377,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
